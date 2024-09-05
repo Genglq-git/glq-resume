@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>耿乐全 - 个人简历</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p, li {
+            font-size: 16px;
+        }
+        .info {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>耿乐全 - 个人简历</h1>
+        <div class="info">
+            <p><strong>联系方式：</strong>18622767768 | 18622767768@163.com</p>
+            <p><strong>性别：</strong>男</p>
+            <p><strong>年龄：</strong>20</p>
+        </div>
+        
+        <h2>求职意向</h2>
+        <p><strong>意向岗位：</strong>数据分析</p>
+        <p><strong>意向城市：</strong>天津</p>
+        <p><strong>求职类型：</strong>实习</p>
+        <p><strong>当前状态：</strong>考虑机会</p>
+
+        <h2>教育经历</h2>
+        <p><strong>2022.09 - 2026.06</strong><br>天津工业大学 - 信息管理与信息系统（本科）</p>
+        <p>本人是一名天津工业大学信息管理与信息系统专业（中美合办）的大三学生。</p>
+        <p><strong>主修课程：</strong>Python程序设计及分析、经济学、商务分析、管理信息系统、数据库原理、数据结构、商务写作、金融数据分析及Office。</p>
+
+        <h2>自我评价</h2>
+        <ul>
+            <li><strong>Python 数据分析：</strong>擅长使用 Python 进行数据处理与分析，尤其熟悉 Pandas 库，能够高效地进行数据清洗、整理和处理，并结合 Matplotlib、Seaborn 进行数据可视化。</li>
+            <li><strong>R 语言：</strong>具备基本的 R 语言数据分析能力，能够进行统计分析和简单的数据建模。</li>
+            <li><strong>SQL 数据库：</strong>熟悉 SQL 数据库的管理和操作，能够通过 SQL 进行数据查询、插入、更新等操作。</li>
+            <li><strong>Office 办公软件：</strong>熟练掌握 Excel、Word、PowerPoint 等工具，能够高效进行数据整理和分析，并通过图表和报告进行展示。</li>
+            <li><strong>经济与会计基础：</strong>学习过微观经济学、宏观经济学和会计学原理，能够结合数据分析进行经济和财务问题的处理。</li>
+            <li><strong>AI 技术应用：</strong>熟练掌握 AI 技术，能够将 AI 应用于数据分析、自动化处理和智能化决策。</li>
+            <li><strong>快速学习能力：</strong>具备快速学习新知识的能力，能够在工作中虚心请教、积累经验，并将新技术如 AI 和数据分析工具快速应用到实际工作中。</li>
+        </ul>
+    </div>
+</body>
+</html>
